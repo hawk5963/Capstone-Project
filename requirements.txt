@@ -1,0 +1,41 @@
+Identifying the problem
+Describe the problem that you would like us to solve
+What is the end result you would like to achieve?
+Where would this product be located/used?
+Do you have a clear idea about what the solution would look like?
+What feature is the most important/should be developed first?
+How polished should the final product be?
+Is overall functionality or presentability more important (or both)?
+Identifying the users
+What types of people would potentially use the product?
+How many people will likely use this product? (maximum estimate would be best)
+Will multiple users be using the system simultaneously?
+Who will be implementing this product?
+Who will be maintaining this product?
+Is this for internal use or external use?
+Do we need to do any security for this project?
+
+Identifying compatibility
+What data do we have access to/how would we access it?
+Do we need to be aware of/work with other software that you have/use?
+Do we have to take into account the hardware you are using?
+Is this project going to be offline/partially online/all online/etc?
+Do you have a preference/requirement for what languages are to be used?
+
+Examples/Templates
+Do you have any existing software or templates that we can base our work off of?
+Give examples of Use Cases
+Use Cases are text documents, written in plain English, which describe a scenario in which an "Actor" interacts with the "System".  Example on page 3.
+Do we need to adhere to a style guide?
+
+Communication
+How often do you plan on communicating with our team?
+How do you plan on communicating with our team? (Email, text, IM, phone, etc)
+Do you need periodic updates regarding the project?
+How can we contact you regarding any questions we may have regarding the project and your expectations/requirements for it?
+Future of the Product
+Do we need this product to be modifiable in the future by other developers/teams?
+Do we need to provide an API, an overview on how to use the product, or both?
+
+Misc
+Do we need to take time zones/internationality into account for this product?
